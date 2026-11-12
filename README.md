@@ -73,3 +73,6 @@ imagenes nuevas
 ## avences de la tercera parte de la pagina web
 tablas nuevas
 se mejoro el footer
+
+## instalar iconos para las redes sociales
+npm install react-icons
